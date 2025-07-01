@@ -1,6 +1,6 @@
 # Personal Projects 
 
-I am A.F Bermúdez, a physics student at the National University of Colombia. I upload my personal projects so that they can be seen by whoever is interested. 
+I am Felipe Bermúdez-Mendoza, a physics student at the National University of Colombia. I upload my personal projects so that they can be seen by whoever is interested. 
 
 The objective is to show all the projects I have worked on and which have contributed to my academic training.
 
